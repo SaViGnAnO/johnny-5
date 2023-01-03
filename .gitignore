@@ -1,0 +1,5 @@
+# Ignore these files always
+.env
+node_modules
+build
+package-lock.json
